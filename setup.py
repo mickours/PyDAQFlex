@@ -5,7 +5,7 @@ from version import get_git_version
 
 setup(
     name='pydaqflex',
-    version=get_git_version(),
+    version='0.2.2',
     description='Python port of the Measurement Computing DAQFlex framework',
     author='David Kiliani',
     author_email='mail@davidkiliani.de',
