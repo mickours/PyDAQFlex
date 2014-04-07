@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 from setuptools import setup
-from version import get_git_version
 
 setup(
     name='pydaqflex',
